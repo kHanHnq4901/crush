@@ -13,6 +13,7 @@ $(document).ready(function () {
 function start() {
   var btnYes = document.querySelector(".btn--yes");
   var btnNo = document.querySelector(".btn--no");
+  var btnIb = document.querySelector(".btn-inbox");
   var popup = document.querySelector(".modal");
   var overlay = document.querySelector(".modal__overlay");
   var btnClose = document.querySelector(".btn-close");
